@@ -53,7 +53,6 @@ The expectation is that everyone in a group is chiefly occupied with writing cod
 | QA | Is responsible for identifying bugs on master and that the final product is bug free |
 
 
-## Gifs
 
 **Github**
 * Designate a team member to create a new Github Repo e.g "VenueTips" repo
