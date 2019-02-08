@@ -20,8 +20,6 @@ Use MapKit and CoreLocation to build out a Foursquare like app with the followin
 
 ## Groupwork
 
-[Groups](https://docs.google.com/spreadsheets/d/1Yn8gLFB6hr33EoBptPgqBqvehTi8C12BKz22GfJ25_Q/edit?ts=5a59316f#gid=0)
-
 This is our first group project.  There are three large things to be aware of for group projects:
 
 1. Git
