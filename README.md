@@ -113,10 +113,6 @@ GET https://api.foursquare.com/v2/venues/VENUE_ID/photos
 |All branches were merged to ```master```|2 Points|
 
 
-|Cocoapods | Point|
-|:----|:---|
-|Use of SnapKit for ProgrammableUI layouts|4 Points|
-|Use of Alamofire for Networking|4 Points|
 
 
 |Error Handling and Network Handling | Point|
@@ -132,7 +128,7 @@ GET https://api.foursquare.com/v2/venues/VENUE_ID/photos
 |Gestures are used as needed where uses expect such behavior|2 Points|
 |Animations are included while using best practices|4 Points|
 
-Total Points: 106 points 
+Total Points: 98 points 
 
 |Bonus Features | Point|
 |:----|:---|
